@@ -1,0 +1,8 @@
+# Ignore le dossier des modules Node.js
+node_modules/
+
+# Fichiers et dossiers de cache
+.next/
+.env
+.env.local
+npm-debug.log*
